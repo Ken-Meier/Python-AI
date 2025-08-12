@@ -23,7 +23,7 @@ cd Python-AI
   ```
   pip install tensorflow numpy scikit-learn matplotlib opencv-python pillow
   ```
-3.Подготовьте структуру папок с данными:
+3. Подготовьте структуру папок с данными:
   ```
   dataset/
   ```
